@@ -1,4 +1,3 @@
-Academic-Projects
-=================
+Implementation of Ant Colony Optimization to solve Network Routing Problem.
 
-Projects done at IIIT Allahabad
+The code include Cogestion Control and Link Failure.
