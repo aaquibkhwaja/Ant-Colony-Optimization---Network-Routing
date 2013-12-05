@@ -366,6 +366,7 @@ int main()
 		
 		double currbestlength = Length(currBestTrail, dist);
 
+		// The code given below is to implement link failure. Uncomment the commented part to verify.
 		/*if (time == 50) {
 			cout << "Till now The best trail is\n ";
 			Display(bestTrail);
